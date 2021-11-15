@@ -3,5 +3,8 @@ Our app is going to make an HTTP call to a weather API to retrieve data whenever
 
 Weather App Site : https://awesome-weather-site.netlify.app/
 
+Other Host Site : https://awesome-weather-site.herokuapp.com/
+
+
 Technologies Used :
 React Js / Hooks / Open Weather Map Api / Class Component / CSS Style Modules
