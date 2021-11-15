@@ -1,0 +1,36 @@
+.bgcolor-2 {
+	background: #8e8e8e59;
+	position: absolute;
+	height: 100vh;
+	top: 0px;
+	right: 0px;
+	z-index: -1;
+	width: 45%;
+	overflow: hidden;
+	transition: all ease 2s;
+}
+
+.bgcolor-1 {
+	background: #b8984ec0;
+	position: absolute;
+	width: 55%;
+	height: 100vh;
+	top: 0px;
+	left: 0px;
+	z-index: -1;
+	overflow: hidden;
+	transition: all ease 2s;
+}
+
+.bgcolor-1:hover {
+	width: 65%;
+}
+.bgcolor-2.blur {
+	width: 35%;
+}
+.bgcolor-2:hover {
+	width: 55%;
+}
+.bgcolor-1.blur {
+	width: 45%;
+}
